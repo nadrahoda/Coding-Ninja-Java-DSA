@@ -1,3 +1,10 @@
+Given a number N, print sum of all even numbers from 1 to N.
+Input Format :
+Integer N
+Output Format :
+Required Sum 
+
+
 import java.util.Scanner;
 public class SumOfEven {
     public static void main(String[] args) {
