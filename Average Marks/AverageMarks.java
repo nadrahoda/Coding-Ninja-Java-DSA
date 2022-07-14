@@ -5,7 +5,8 @@ Input format : Line 1 : Name(Single character) Line 2 : Marks scored in the 3 te
 
 
 
-/**
+
+ /**
  * AverageMarks
  */
 
